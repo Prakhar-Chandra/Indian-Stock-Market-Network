@@ -1,0 +1,13 @@
+
+yfinance
+pandas
+numpy
+networkx
+matplotlib
+seaborn
+scipy
+jupyter
+ipykernel
+requests
+openpyxl
+

@@ -1,0 +1,185 @@
+Ticker,Sector,Local_Clustering
+360ONE.NS,Financial Services,0.0
+ABB.NS,Capital Goods,0.0
+APLAPOLLO.NS,Capital Goods,0.0
+AUBANK.NS,Financial Services,0.0
+ADANIENSOL.NS,Power,0.8
+ADANIENT.NS,Metals & Mining,0.6
+ADANIGREEN.NS,Power,0.8
+ADANIPORTS.NS,Services,0.6666666666666666
+ADANIPOWER.NS,Power,1.0
+ATGL.NS,Oil Gas & Consumable Fuels,1.0
+ABCAPITAL.NS,Financial Services,0.0
+AMBUJACEM.NS,Construction Materials,1.0
+APARINDS.NS,Capital Goods,0.0
+APOLLOHOSP.NS,Healthcare,0.0
+ASHOKLEY.NS,Capital Goods,0.0
+ASIANPAINT.NS,Consumer Durables,0.0
+ASTRAL.NS,Capital Goods,0.0
+DMART.NS,Consumer Services,0.0
+AXISBANK.NS,Financial Services,0.0
+BSE.NS,Financial Services,0.0
+BAJAJ-AUTO.NS,Automobile and Auto Components,0.0
+BAJFINANCE.NS,Financial Services,0.0
+BAJAJFINSV.NS,Financial Services,0.0
+BAJAJHLDNG.NS,Financial Services,0.0
+BANKBARODA.NS,Financial Services,0.7142857142857143
+BANKINDIA.NS,Financial Services,0.7619047619047619
+MAHABANK.NS,Financial Services,1.0
+BDL.NS,Capital Goods,0.5
+BEL.NS,Capital Goods,0.4
+BHARATFORG.NS,Automobile and Auto Components,0.0
+BHEL.NS,Capital Goods,0.8333333333333334
+BPCL.NS,Oil Gas & Consumable Fuels,1.0
+BHARTIARTL.NS,Telecommunication,0.0
+BIOCON.NS,Healthcare,0.0
+BLUESTARCO.NS,Consumer Durables,0.0
+BOSCHLTD.NS,Automobile and Auto Components,0.0
+BRITANNIA.NS,Fast Moving Consumer Goods,0.0
+CGPOWER.NS,Capital Goods,0.0
+CANBK.NS,Financial Services,0.5555555555555556
+CHOLAFIN.NS,Financial Services,0.0
+CIPLA.NS,Healthcare,0.0
+COALINDIA.NS,Oil Gas & Consumable Fuels,0.0
+COCHINSHIP.NS,Capital Goods,1.0
+COFORGE.NS,Information Technology,1.0
+COLPAL.NS,Fast Moving Consumer Goods,0.0
+CONCOR.NS,Services,0.0
+CUMMINSIND.NS,Capital Goods,0.0
+DLF.NS,Realty,0.16666666666666666
+DABUR.NS,Fast Moving Consumer Goods,0.0
+DIVISLAB.NS,Healthcare,0.0
+DIXON.NS,Consumer Durables,0.0
+DRREDDY.NS,Healthcare,0.0
+EICHERMOT.NS,Automobile and Auto Components,0.0
+ETERNAL.NS,Consumer Services,0.0
+EXIDEIND.NS,Automobile and Auto Components,0.0
+NYKAA.NS,Consumer Services,0.0
+FEDERALBNK.NS,Financial Services,0.0
+FORTIS.NS,Healthcare,0.0
+GAIL.NS,Oil Gas & Consumable Fuels,0.3333333333333333
+GVT&D.NS,Capital Goods,0.0
+GMRAIRPORT.NS,Services,0.0
+GLENMARK.NS,Healthcare,0.0
+GODFRYPHLP.NS,Fast Moving Consumer Goods,0.0
+GODREJCP.NS,Fast Moving Consumer Goods,0.0
+GODREJPROP.NS,Realty,1.0
+GRASIM.NS,Construction Materials,0.0
+HCLTECH.NS,Information Technology,1.0
+HDFCAMC.NS,Financial Services,0.0
+HDFCBANK.NS,Financial Services,0.0
+HDFCLIFE.NS,Financial Services,0.0
+HAVELLS.NS,Consumer Durables,0.0
+HEROMOTOCO.NS,Automobile and Auto Components,0.0
+HINDALCO.NS,Metals & Mining,1.0
+HAL.NS,Capital Goods,0.5
+HINDCOPPER.NS,Metals & Mining,1.0
+HINDPETRO.NS,Oil Gas & Consumable Fuels,1.0
+HINDUNILVR.NS,Fast Moving Consumer Goods,0.0
+HINDZINC.NS,Metals & Mining,0.0
+POWERINDIA.NS,Capital Goods,0.0
+ICICIBANK.NS,Financial Services,0.0
+ICICIGI.NS,Financial Services,0.0
+IDFCFIRSTB.NS,Financial Services,0.0
+ITC.NS,Fast Moving Consumer Goods,0.0
+INDIANB.NS,Financial Services,1.0
+INDHOTEL.NS,Consumer Services,0.0
+IOC.NS,Oil Gas & Consumable Fuels,0.3333333333333333
+IRCTC.NS,Consumer Services,0.0
+IRFC.NS,Financial Services,0.0
+INDUSTOWER.NS,Telecommunication,0.0
+INDUSINDBK.NS,Financial Services,0.0
+NAUKRI.NS,Consumer Services,0.0
+INFY.NS,Information Technology,0.6
+INDIGO.NS,Services,0.0
+JSWENERGY.NS,Power,0.0
+JSWSTEEL.NS,Metals & Mining,1.0
+JINDALSTEL.NS,Metals & Mining,0.6666666666666666
+JIOFIN.NS,Financial Services,0.0
+JUBLFOOD.NS,Consumer Services,0.0
+KEI.NS,Capital Goods,0.0
+KALYANKJIL.NS,Consumer Durables,0.0
+KOTAKBANK.NS,Financial Services,0.0
+LTF.NS,Financial Services,0.0
+LICHSGFIN.NS,Financial Services,0.0
+LTM.NS,Information Technology,0.8
+LT.NS,Construction,0.0
+LAURUSLABS.NS,Healthcare,0.0
+LICI.NS,Financial Services,0.0
+LODHA.NS,Realty,0.0
+LUPIN.NS,Healthcare,0.0
+MRF.NS,Automobile and Auto Components,0.0
+M&MFIN.NS,Financial Services,0.0
+M&M.NS,Automobile and Auto Components,0.0
+MANKIND.NS,Healthcare,0.0
+MARICO.NS,Fast Moving Consumer Goods,0.0
+MARUTI.NS,Automobile and Auto Components,0.0
+MFSL.NS,Financial Services,0.0
+MAXHEALTH.NS,Healthcare,0.0
+MAZDOCK.NS,Capital Goods,0.6666666666666666
+MPHASIS.NS,Information Technology,0.4
+MCX.NS,Financial Services,0.0
+MUTHOOTFIN.NS,Financial Services,0.0
+NHPC.NS,Power,0.0
+NLCINDIA.NS,Power,0.0
+NMDC.NS,Metals & Mining,0.6666666666666666
+NTPC.NS,Power,0.2
+NATIONALUM.NS,Metals & Mining,0.6666666666666666
+NESTLEIND.NS,Fast Moving Consumer Goods,0.0
+OBEROIRLTY.NS,Realty,1.0
+ONGC.NS,Oil Gas & Consumable Fuels,0.0
+OIL.NS,Oil Gas & Consumable Fuels,0.0
+PAYTM.NS,Financial Services,0.0
+OFSS.NS,Information Technology,0.0
+POLICYBZR.NS,Financial Services,0.0
+PIIND.NS,Chemicals,0.0
+PAGEIND.NS,Textiles,0.0
+PATANJALI.NS,Fast Moving Consumer Goods,0.0
+PERSISTENT.NS,Information Technology,1.0
+PHOENIXLTD.NS,Realty,0.0
+PIDILITIND.NS,Chemicals,0.0
+POLYCAB.NS,Capital Goods,0.0
+PFC.NS,Financial Services,0.4666666666666667
+POWERGRID.NS,Power,0.0
+PRESTIGE.NS,Realty,0.0
+PNB.NS,Financial Services,0.6071428571428571
+RECLTD.NS,Financial Services,0.3333333333333333
+RADICO.NS,Fast Moving Consumer Goods,0.0
+RVNL.NS,Construction,0.0
+RELIANCE.NS,Oil Gas & Consumable Fuels,0.0
+SBICARD.NS,Financial Services,0.0
+SBILIFE.NS,Financial Services,0.0
+SRF.NS,Chemicals,0.0
+MOTHERSON.NS,Automobile and Auto Components,0.0
+SHRIRAMFIN.NS,Financial Services,0.0
+SIEMENS.NS,Capital Goods,0.0
+SOLARINDS.NS,Chemicals,0.0
+SBIN.NS,Financial Services,1.0
+SAIL.NS,Metals & Mining,0.8
+SUNPHARMA.NS,Healthcare,0.0
+SUPREMEIND.NS,Capital Goods,0.0
+SUZLON.NS,Capital Goods,0.0
+TVSMOTOR.NS,Automobile and Auto Components,0.0
+TATACOMM.NS,Telecommunication,0.0
+TCS.NS,Information Technology,0.7
+TATACONSUM.NS,Fast Moving Consumer Goods,0.0
+TMPV.NS,Automobile and Auto Components,0.0
+TATAPOWER.NS,Power,0.0
+TATASTEEL.NS,Metals & Mining,0.5238095238095238
+TECHM.NS,Information Technology,0.8
+TITAN.NS,Consumer Durables,0.0
+TORNTPHARM.NS,Healthcare,0.0
+TRENT.NS,Consumer Services,0.0
+TIINDIA.NS,Automobile and Auto Components,0.0
+UPL.NS,Chemicals,0.0
+ULTRACEMCO.NS,Construction Materials,0.0
+UNIONBANK.NS,Financial Services,0.7619047619047619
+UNITDSPR.NS,Fast Moving Consumer Goods,0.0
+VBL.NS,Fast Moving Consumer Goods,0.0
+VEDL.NS,Metals & Mining,0.47619047619047616
+IDEA.NS,Telecommunication,0.0
+VOLTAS.NS,Consumer Durables,0.0
+WIPRO.NS,Information Technology,1.0
+YESBANK.NS,Financial Services,0.0
+ZYDUSLIFE.NS,Healthcare,0.0
+AUROPHARMA.NS,Healthcare,0.0
